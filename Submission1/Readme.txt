@@ -8,4 +8,8 @@ https://docs.google.com/presentation/d/13iat1hEBjAa8lL3vVHxXHqW-XztDybwuh7pmblAw
 
 Paper title:
 
-"Automatic Handwriting Recognition Using Deep Learning: A Case Study on Arabic Handwriting"
+"Arabic handwriting recognition system using convolutional neural network"
+
+Link to the paper:
+
+https://link.springer.com/article/10.1007/s00521-020-05070-8
